@@ -1,2 +1,4 @@
 # test-repo
-testing ok
+testing okay
+
+yes
